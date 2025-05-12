@@ -1,0 +1,15 @@
+wtf.file.api
+wtf.file.api.animation
+wtf.file.api.builder
+wtf.file.api.color
+wtf.file.api.color.channel
+wtf.file.api.color.value
+wtf.file.api.data
+wtf.file.api.editable
+wtf.file.api.editable.animation
+wtf.file.api.editable.compression
+wtf.file.api.editable.data
+wtf.file.api.editable.metadata
+wtf.file.api.exception
+wtf.file.api.metadata
+wtf.file.api.version
