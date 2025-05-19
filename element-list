@@ -11,5 +11,6 @@ wtf.file.api.editable.compression
 wtf.file.api.editable.data
 wtf.file.api.editable.metadata
 wtf.file.api.exception
+wtf.file.api.impl
 wtf.file.api.metadata
 wtf.file.api.version
